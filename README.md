@@ -6,6 +6,7 @@ Images of digits were taken from a variety of scanned documents, normalized in s
 To goal of this problem is to identify the digits on the image. There are ten digits (0 to 9) or ten classes to predict. The state-of-the-art prediction accuracy is at 99.8% level, achieved with large convolutional neural networks.
 
 Overview
+
 This code demonstrates the use of a Convolutional Neural Network (CNN) derived from the LeNet-5 model for handwritten digit classification. 
 It involves constructing, training, and evaluating the model using the MNIST dataset. Additionally, it provides functionality to validate the model
 by feeding handwritten images of digits (0-9) and making predictions.
